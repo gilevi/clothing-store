@@ -1,3 +1,9 @@
+# clothing web app
+
+## Web application using React and Redux
+
+### [Live Site](https://crwn-live-gil.herokuapp.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
